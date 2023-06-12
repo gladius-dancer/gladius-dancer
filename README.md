@@ -60,8 +60,8 @@
     <img alt="Rustem github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gladius-dancer&theme=github_dark" />
 </p>
 
-| <img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gladius-dancer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> | <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gladius-dancer&theme=react&hide_border=true&stroke=0000&background=0D1117"/> |
-| ------------- | ------------- |
+| <img alt="Rustem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gladius-dancer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> | <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rustem's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gladius-dancer&theme=react&hide_border=true&stroke=0000&background=0D1117"/> |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------- |
 
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
