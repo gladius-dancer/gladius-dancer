@@ -25,7 +25,7 @@
 - ⚡ Fun fact: **I play games and listening music very often.**
 
 
-- 📋 My CV: **<a href="./CV.pdf">download</a>**
+- 📋 My CV: **<a href="./CV.pdf">Open</a>**
 
 
 ## 🚀 Languages and Tools:
