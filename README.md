@@ -16,13 +16,13 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 
-- 📫 How to reach me **gladius.dancer@gmail.com**
+- 📫 How to reach me: **gladius.dancer@gmail.com**
 
 
 - 😄 Pronouns: He/His
 
 
-- ⚡ Fun fact **I play games and listening music very often.**
+- ⚡ Fun fact: **I play games and listening music very often.**
 
 
 ## 🚀 Languages and Tools:
@@ -50,15 +50,10 @@
 
 <br/>
 
-<p align="center">
-    <img alt="Rustem's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gladius-dancer&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
-
 ## 📊 My Github Stats
 
-<p align="center">
-    <img alt="Rustem github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gladius-dancer&theme=github_dark" />
-</p>
+| <img alt="Rustem's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gladius-dancer&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> | <img alt="Rustem github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gladius-dancer&theme=github_dark" /> |
+|--|--|
 
 | <img alt="Rustem's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gladius-dancer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> | <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rustem's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gladius-dancer&theme=react&hide_border=true&stroke=0000&background=0D1117"/> |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------- |
