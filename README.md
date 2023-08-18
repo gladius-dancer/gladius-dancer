@@ -57,7 +57,7 @@
 
 <br/>
 
-## рџ“Љ My Github Stats
+## My Github Stats
 
 | <img alt="Rustem's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gladius-dancer&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> | <img alt="Rustem github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gladius-dancer&theme=github_dark" /> |
 |--|--|
