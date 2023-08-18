@@ -7,28 +7,28 @@
 </h3>
 
 
-## рџ™‹вЂЌв™‚пёЏ About Me
+## 🙋‍♂️ About Me
 
 
-- рџЊ± IвЂ™m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 
-- рџ‘Ї IвЂ™m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 
-- рџ“« How to reach me: **gladius.dancer@gmail.com**
+- 📫 How to reach me: **gladius.dancer@gmail.com**
 
 
-- рџ„ Pronouns: He/His
+- 😄 Pronouns: He/His
 
 
-- вљЎ Fun fact: **I play games and listening music very often.**
+- ⚡ Fun fact: **I play games and listening music very often.**
 
 
-- рџ“‹ My CV: **<a href="./CV.pdf">Open</a>**
+- 📋 My CV: **<a href="./CV.pdf">Open</a>**
 
 
-## рџљЂ Languages and Tools:
+## 🚀 Languages and Tools:
 
 <p align="center"> 
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
@@ -57,12 +57,12 @@
 
 <br/>
 
-## My Github Stats
+## 📊 My Github Stats
 
 | <img alt="Rustem's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gladius-dancer&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> | <img alt="Rustem github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gladius-dancer&theme=github_dark" /> |
 |--|--|
 
-| <img alt="Rustem's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gladius-dancer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> | <img title="рџ”Ґ Get streak stats for your profile at git.io/streak-stats" alt="Rustem's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gladius-dancer&theme=react&hide_border=true&stroke=0000&background=0D1117"/> |
+| <img alt="Rustem's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gladius-dancer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> | <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rustem's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gladius-dancer&theme=react&hide_border=true&stroke=0000&background=0D1117"/> |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------- |
 
 
